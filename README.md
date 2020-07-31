@@ -3,6 +3,7 @@
 This is a curated list of tools, resources, guides and everything in between which should serve as a bookmark for Salesforce Developers of all skill levels.
 
 **Admin2Dev is not affiliated with Salesforce.com, Inc or any of it's subsidiaries.**
+
 ## Index
 
 - [IDEs](#ides)
@@ -12,6 +13,8 @@ This is a curated list of tools, resources, guides and everything in between whi
 - [YouTube Channels](#youtube-channels)
 - [Official Documentation](#official-documentation)
 - [Discord Servers](#discord-servers)
+
+---
 
 ### IDEs
 - [Visual Studio Code](http://visualstudio.microsoft.com)
@@ -26,6 +29,7 @@ This is a curated list of tools, resources, guides and everything in between whi
 - [Postman](https://postman.com)
 - [Paw](https://paw.cloud)
 - [JSON2Apex](https://json2apex.herokuapp.com)
+- [Admin2Dev's Apex Snippets](http://github.com/Admin2Dev/apex-snippets)
 
 ### Browser Extensions
 - Dark mode for Salesforce: [Chrome](https://chrome.google.com/webstore/detail/dark-mode-for-salesforce/dfhaknkfkemfajjhmkikhhaiafkhphak?hl=en)
