@@ -3,6 +3,15 @@
 This is a curated list of tools, resources, guides and everything in between which should serve as a bookmark for Salesforce Developers of all skill levels.
 
 **Admin2Dev is not affiliated with Salesforce.com, Inc or any of it's subsidiaries.**
+## Index
+
+- [IDEs](#ides)
+- [Tools](#tools)
+- [Browser Extensions](#browser-extensions)
+- [Blogs](#blogs)
+- [YouTube Channels](#youtube-channels)
+- [Official Documentation](#official-documentation)
+- [Discord Servers](#discord-servers)
 
 ### IDEs
 - [Visual Studio Code](http://visualstudio.microsoft.com)
